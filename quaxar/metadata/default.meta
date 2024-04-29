@@ -1,0 +1,11 @@
+[]
+access = read : [ * ], write : [ admin, power ]
+
+[alert_actions]
+export = system
+
+[alerts]
+export = system
+
+[restmap]
+export = system

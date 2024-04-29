@@ -1,0 +1,29 @@
+[app/ui]
+version = 9.1.1
+modtime = 1701764643.271378000
+
+[app/launcher]
+version = 9.1.1
+modtime = 1701764643.273635000
+
+[app/install/install_source_checksum]
+version = 9.1.2
+modtime = 1706519352.407281000
+
+[savedsearches/%5BInput%5D%20Quaxar%20ATOM%20ingest]
+owner = admin
+version = 9.1.2
+modtime = 1706835598.560704000
+
+[inputs/monitor%3A%2F%2F%2Fopt%2Fsplunk%2Fetc%2Fapps%2Fquaxar%2Fbin%2Fexport.json]
+owner = admin
+version = 9.1.2
+modtime = 1706599843.906257000
+
+[savedsearches/%5BInput%5D%20Quaxar%20INVI%20ingest]
+version = 9.1.2
+modtime = 1706684704.557564000
+
+[savedsearches/%5BInput%5D%20Quaxar%20SIGV%20ingest]
+version = 9.1.2
+modtime = 1706684709.789406000
