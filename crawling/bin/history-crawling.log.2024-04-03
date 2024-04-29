@@ -1,0 +1,195 @@
+[INFO|crawling.py:77] [2024/04/03 | AM 09:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 09:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 09:10:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 09:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 09:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 09:20:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 09:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 09:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 09:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 09:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 09:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 09:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 09:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 09:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 09:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 10:40:01] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 10:40:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 10:40:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 10:50:01] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 10:50:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 10:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:00:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:10:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:20:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:30:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | AM 11:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | AM 11:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | AM 11:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:00:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:10:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:20:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:40:02] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 12:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 12:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 12:50:02] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:00:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:10:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:10:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:20:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:20:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:20:02] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:30:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:30:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:40:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:40:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:40:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 13:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 13:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 13:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:00:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:10:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:20:02] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 14:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 14:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 14:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:00:02] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:20:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 15:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 15:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 15:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:00:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:20:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 16:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 16:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 16:50:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:00:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:20:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:40:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 17:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 17:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 17:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:00:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:20:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:20:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:20:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:30:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:40:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 18:50:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 18:50:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 18:50:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:00:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:00:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:00:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:10:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:10:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:10:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:20:01] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:20:01] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:20:01] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:30:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:30:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:30:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:40:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:40:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:40:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 19:50:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 19:50:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 19:50:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 20:00:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 20:00:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 20:00:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 20:10:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 20:10:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 20:10:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 20:20:00] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 20:20:00] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 20:20:00] > 주의
+[INFO|crawling.py:77] [2024/04/03 | PM 21:10:44] > start
+[INFO|crawling.py:15] [2024/04/03 | PM 21:10:44] > #sec01 dl.step
+[INFO|crawling.py:30] [2024/04/03 | PM 21:10:45] > 주의

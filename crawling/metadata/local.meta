@@ -1,0 +1,38 @@
+[app/ui]
+version = 9.1.2
+modtime = 1710221584.529758000
+
+[app/launcher]
+version = 9.1.2
+modtime = 1710221584.531395000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 9.1.2
+modtime = 1709544601.133355000
+
+[savedsearches/0-crawling]
+access = read : [ * ], write : [ admin, power ]
+export = none
+owner = admin
+version = 9.1.2
+modtime = 1710290609.982105000
+
+[app/install/state]
+version = 9.1.2
+modtime = 1710221574.394963000
+
+[app/package/check_for_updates]
+version = 9.1.2
+modtime = 1710221584.532030000
+
+[props/kisa%3Aalert]
+owner = admin
+version = 9.1.2
+modtime = 1710221628.558965000
+
+[inputs/monitor%3A%2F%2F%2Fopt%2Fsplunk%2Fetc%2Fapps%2Fcrawling%2Fbin%2Fexport-crawling.log]
+owner = admin
+version = 9.1.2
+modtime = 1710290385.198092000
